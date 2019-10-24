@@ -1,0 +1,25 @@
+.jumbotron-fluid{
+  background-color: #994670;
+}
+p
+{
+  font-style: italic;
+  font-size: 20px;
+}
+.logo-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+h1{
+  font-size: 70px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.img-thumbnail{
+  width: 600px;
+  height: 600px;
+}
